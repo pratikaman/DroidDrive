@@ -1,0 +1,6 @@
+.build/
+.swiftpm/
+DroidDrive.app/
+packaging/AppIcon.icns
+packaging/AppIcon.iconset/
+.DS_Store
