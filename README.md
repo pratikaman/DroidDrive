@@ -29,6 +29,16 @@ Do this once. After that, the cable is enough.
 
 Unlock the phone while you do this. A locked screen with a pending prompt looks like a dead cable.
 
+## Install with an agent
+
+Paste this into Claude Code, Cursor, Codex, or any coding agent:
+
+```
+Install DroidDrive on this Mac from https://github.com/pratikaman/DroidDrive
+
+Clone it, install adb with `brew install android-platform-tools` if missing, run `./build_app.sh`, put DroidDrive.app in /Applications, and open it.
+```
+
 ## Build
 
 ```sh
